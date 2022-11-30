@@ -1,3 +1,3 @@
-# Satellite-Image-Classification
+# Multiclass-classification-of-breast-cancer-patients
 
-Classifying small squares of satellite images taken from space.
+
