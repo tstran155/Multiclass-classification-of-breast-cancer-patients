@@ -26,13 +26,13 @@ a) Data Cleaning
 
 b) Feature Selection
 
-b) Data Transforms
+c) Split Dataset into Train and Test Sets 
+
+d) Data Transforms
 
 4. Evaluate Algorithms
 
-a) Split-out validation dataset
-
-b) Spot check algorithms 
+a) Spot check algorithms 
    
    - Notebook 1: Standard algorithms (KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC)
                  
@@ -42,11 +42,9 @@ b) Spot check algorithms
                  
                  Neural network algorithm (Keras Sequential)
                  
-c) Compare algorithms
+b) Compare algorithms
 
-5. Improve Accuracy
-
-a) Hyperparameter tuning
+5. Improve Accuracy by Hyperparameter Tuning
 
 6. Finalize Model
 
