@@ -40,7 +40,7 @@ b) Spot check algorithms
    
    - Notebook 2: Ensemble algorithm (XGBoost)
                  
-                 Neural network (Keras Sequential)
+                 Neural network algorithm (Keras Sequential)
                  
 c) Compare algorithms
 
