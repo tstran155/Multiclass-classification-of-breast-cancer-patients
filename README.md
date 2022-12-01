@@ -51,3 +51,5 @@ b) Compare algorithms
 a) Predictions on validation dataset (best algorithm)
 
 b) Save model for later use
+
+7. Conclusions
