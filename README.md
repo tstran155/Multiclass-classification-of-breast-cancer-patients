@@ -44,7 +44,7 @@ a) Spot check algorithms
                  
 b) Compare algorithms
 
-5. Improve Accuracy by Hyperparameter Tuning
+5. Improve Accuracy by Tuning Model's Parameters
 
 6. Finalize Model
 
