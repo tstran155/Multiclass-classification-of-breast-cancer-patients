@@ -1,4 +1,4 @@
-# Multiclass-classification-of-breast-cancer-patients
+# Multiclass classification of breast cancer patients
 
 Breast cancer is the most common cancer and the leading cause of cancer-related deaths in women. Cancer is typically associated with genetic abnormalities. People with the same disease stage and similar clinical characteristics may have different treatment responses and overall survival rates. Therefore, it is important to accurately predict the survival time and prevent unnecessary surgical procedures.
 
