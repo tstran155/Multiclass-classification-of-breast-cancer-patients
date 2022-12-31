@@ -34,13 +34,13 @@ d) Data Transforms
 
 a) Spot check algorithms 
    
-   - Notebook 1: Standard algorithms (KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC)
+- Notebook 1: Standard algorithms (KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC)
                  
-                 Ensemble algorithms (AdaBoostClassifier, GradientBoostingClassifier, RandomForestClassifier,ExtraTreesClassifier) 
+              Ensemble algorithms (AdaBoostClassifier, GradientBoostingClassifier, RandomForestClassifier,ExtraTreesClassifier) 
    
-   - Notebook 2: Ensemble algorithm (XGBoost)
+- Notebook 2: Ensemble algorithm (XGBoost)
                  
-                 Neural network algorithm (Keras Sequential)
+              Neural network algorithm (Keras Sequential)
                  
 b) Compare algorithms
 
