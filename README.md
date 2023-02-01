@@ -24,7 +24,7 @@ b) Data visualizations
 
 a) Data Cleaning
 
-b) Feature Selection
+b) Feature Selection using SelectKBest
 
 c) Split Dataset into Train and Test Sets 
 
