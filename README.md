@@ -32,7 +32,7 @@ d) Data Transforms
 
 4. Evaluate Algorithms
 
-a) Spot check algorithms 
+a) Spot check algorithms (cross-validation technique) 
    
 - Notebook 1: Standard algorithms (KNeighborsClassifier, DecisionTreeClassifier, GaussianNB, SVC)
                  
